@@ -1,6 +1,6 @@
 # BetterFront
 
-##BetterFront App LOGO
+## BetterFront App LOGO
 ![image](https://user-images.githubusercontent.com/75328768/232621098-2e66b161-6baf-428b-9109-a8d5c5887851.png)
 
 ## Splash Screen
